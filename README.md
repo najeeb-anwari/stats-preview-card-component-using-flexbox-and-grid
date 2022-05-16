@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/najeeb-anwari/stats-preview-card-component-using-flexbox-and-grid)
-- Live Site URL: [Live URL](https://your-live-site-url.com)
+- Live Site URL: [Live URL](https://najeeb-anwari.github.io/stats-preview-card-component-using-flexbox-and-grid/)
 
 ## My process
 
